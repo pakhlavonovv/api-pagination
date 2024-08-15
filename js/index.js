@@ -37,7 +37,6 @@ function displayUsers(){
         result.appendChild(tr)
     });
     paginationUsers();
-
 }
 function paginationUsers(){
     pagination.innerHTML = ""
